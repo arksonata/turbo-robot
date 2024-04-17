@@ -5,7 +5,7 @@
     path_infos.resize(0);
   }
   //------------------------------------------------------------------------------
-
+//nice
   void SvgWriter::SetCoordsStyle(const std::string &font_name,
       unsigned font_color, unsigned font_size)
   {
